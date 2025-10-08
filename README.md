@@ -101,4 +101,4 @@ jupyter notebook Titanic_Spaceship_Classification.ipynb
 
 ### Acknowledgments
 
-- Dataset and task: `@https://www.kaggle.com/competitions/spaceship-titanic/`
+- Dataset and task: https://www.kaggle.com/competitions/spaceship-titanic/
